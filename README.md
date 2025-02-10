@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Front-end
 - 📫 How to reach me: palakkasaudhan123@gmail.com
-- 👨‍💻 All of my projects are available at https://tanishaa17.github.io/Portfolio/
+- 👨‍💻 All of my projects are available at https://github.com/palak720/Portfolio
 - 📄 Know about my experiences https://drive.google.com/file/d/1kTJNLbldaofe5ieJ3ugM7SLrod4DxJaV/view?usp=sharing
 
 
