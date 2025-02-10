@@ -1,16 +1,31 @@
-## Hi there 👋
+ <h1 align="center">Hi 👋, I'm Palak Kasaudhan</h1>
 
-<!--
-**palak720/palak720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Front-end
+- 📫 How to reach me: palakkasaudhan123@gmail.com
+-👨‍💻 All of my projects are available at https://tanishaa17.github.io/Portfolio/
+📄 Know about my experiences https://drive.google.com/file/d/1kTJNLbldaofe5ieJ3ugM7SLrod4DxJaV/view?usp=sharing
 
-Here are some ideas to get you started:
+### Connect with me:
+<div id="badges">
+  <a href="https://github.com/palak720">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+   
+   <a href="https://x.com/PalakKasaudhan">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=html.css.javascript,react,github,git,xd&perline=5)](https://skillicons.dev)
+
+![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
+
+
+<br>
+⭐️ From [palak720]("https://github.com/palak720")
+
+
+
