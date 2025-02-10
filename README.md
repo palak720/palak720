@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Palak Kasaudhan</h1>
  <h1 align="centre">A passionate Front-end Developer
- <img src="https://raw.githubusercontent.com/sourabmaity/sourabmaity/main/assets/gif.gif" width="450" height="200" align-item="centre">
+ <img src="https://raw.githubusercontent.com/sourabmaity/sourabmaity/main/assets/gif.gif" width="450" height="280" align-item="centre">
  
 
 - 🌱 I’m currently learning Front-end
