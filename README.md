@@ -2,8 +2,8 @@
 
 - 🌱 I’m currently learning Front-end
 - 📫 How to reach me: palakkasaudhan123@gmail.com
--👨‍💻 All of my projects are available at https://tanishaa17.github.io/Portfolio/
--📄 Know about my experiences https://drive.google.com/file/d/1kTJNLbldaofe5ieJ3ugM7SLrod4DxJaV/view?usp=sharing
+- 👨‍💻 All of my projects are available at https://tanishaa17.github.io/Portfolio/
+- 📄 Know about my experiences https://drive.google.com/file/d/1kTJNLbldaofe5ieJ3ugM7SLrod4DxJaV/view?usp=sharing
 
 
 ### Connect with me:
@@ -18,7 +18,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,github,git,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,github,git,vscode,canva,chakra-UI,xd&perline=5)](https://skillicons.dev)
 
 ![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=palak720&show_icons=true&theme=dark)
 
