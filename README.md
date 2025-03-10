@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Front-end
 - 📫 How to reach me: palakkasaudhan123@gmail.com
 - 👨‍💻 All of my projects are available at https://palak720.github.io/Portfolio/
-- 📄 Know about my experiences https:https://drive.google.com/drive/u/1/home
+- 📄 Know about my experiences https:https://drive.google.com/file/d/1D-VBSB1FAXjNzN3YOnk86fYat1YlfwHj/view?usp=sharing
 ### Connect with me:
 <div id="badges">
   <a href="https://github.com/palak720">
