@@ -1,43 +1,86 @@
 <h1 align="center">Hi 👋, I'm Palak Kasaudhan</h1>
-<h3 align="center">A passionate Front-end Developer learning Backend Technologies</h3>
+<h3 align="center">Full Stack Developer | Building End-to-End Web Applications</h3>
 
+---
+
+## 👩‍💻 About Me
+- 💻 Full Stack Developer with strong foundations in **Frontend Development**  
+- 🌱 Currently strengthening backend skills with **Node.js, Express.js, MongoDB**  
+- ⚡ Experienced in building **responsive, interactive, and scalable web apps**  
+- 🔍 Exploring **AI-integrated applications & real-world problem solving**  
+
+---
+
+## 🌐 Portfolio & Resume
+- 🔗 Portfolio: https://palak720.github.io/Portfolio/#home  
+- 📄 Resume: [Add your resume link here]
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: palakkasaudhan123@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/palak-kasaudhan-098399208  
+- 🐦 Twitter: https://twitter.com/PalakKasaudhan  
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Frontend
+HTML | CSS | JavaScript | React.js | Tailwind CSS | GSAP  
+
+### ⚙️ Backend
+Node.js | Express.js  
+
+### 🗄️ Database
+MongoDB  
+
+### 🧰 Tools & Platforms
+Git | GitHub | VS Code | Framer | Postman  
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Portfolio Website
+- Personal portfolio to showcase projects & skills  
+- Built using **HTML, CSS, JavaScript**  
+
+---
+
+### 🔹 Animated Landing Page
+- Motion-first UI using **React + GSAP + Tailwind CSS**  
+- Focus on smooth animations & UX  
+
+---
+
+### 🔹 SafeRoute AI
+- AI-based route safety solution  
+- Demonstrates backend + logic integration  
+
+---
+
+### 🔹 CyberShield AI
+- Security-focused AI web application  
+- Combines frontend + backend concepts  
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sourabmaity/sourabmaity/main/assets/gif.gif" width="450" height="280" alt="Developer GIF"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=palak720&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=palak720&theme=radical" />
 </p>
 
-- 🌱 I’m currently learning **Backend Development** (Node.js, Express.js, MongoDB)
-- 👨‍💻 All of my projects are available at: [My Portfolio](https://palak720.github.io/Portfolio/)
-- 📫 Reach me at: **palakkasaudhan123@gmail.com**
-- 📄 View my resume: [Resume Link](https://drive.google.com/file/d/1kYOQOTt2pwE_aTo3wy-yeE8wlghZ7e-T/view?usp=sharing)
+---
+
+## 🏆 Achievements
+- 🏅 Quickdraw  
+- 🏅 YOLO  
+- 🏅 Pull Shark  
 
 ---
 
-### 🌐 Connect with me:
-<div id="badges">
-  <a href="https://github.com/palak720" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  <a href="https://x.com/PalakKasaudhan" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
----
-
-### 🛠️ Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,github,git,vscode,canva,chakraui,xd,nodejs,express,mongodb&perline=6)](https://skillicons.dev)
-
----
-
-### 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=palak720&show_icons=true&theme=light" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palak720&layout=compact&theme=light" width="47%" />
-</div>
-
----
-
-⭐️ From [palak720](https://github.com/palak720)
-
+⭐️ *“Focused on building complete products, not just interfaces.”*
 
 
