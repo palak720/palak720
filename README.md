@@ -40,19 +40,21 @@ const palak = {
 
 ---
 
-💼 Experience
+## 💼 Experience
 
-🏢 Internship
+### 🏢 Internship
 
-RoleCompanyDurationTypeFrontend Developer InternQurocity.aiApr 2025 – Jun 2025🌐 Remote
+| Role | Company | Duration | Type |
+|------|---------|----------|------|
+| **Frontend Developer Intern** | [Qurocity.ai](https://qurocity.ai) | Apr 2025 – Jun 2025 | 🌐 Remote |
 
-Key Contributions at Qurocity.ai:
+**Key Contributions at Qurocity.ai:**
+- 🎨 Developed responsive UI components using **React.js & Tailwind CSS** based on Figma designs
+- 🔗 Integrated **REST APIs** and managed application state with **React Hooks**
+- ⚡ Optimised app performance via **lazy loading** and **code-splitting** techniques
+- 🤝 Collaborated in **agile teams**, participated in sprint planning & peer code reviews
 
-
-🎨 Developed responsive UI components using React.js & Tailwind CSS based on Figma designs
-🔗 Integrated REST APIs and managed application state with React Hooks
-⚡ Optimised app performance via lazy loading and code-splitting techniques
-🤝 Collaborated in agile teams, participated in sprint planning & peer code reviews
+---
 
 ### 🌐 Open Source Contributions
 
@@ -239,4 +241,8 @@ Key Contributions at Qurocity.ai:
 **⭐ If you like my work, consider giving a star to my repos!**
 
 </div>
+
+
+
+
 
