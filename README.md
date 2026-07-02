@@ -87,7 +87,6 @@ const palak = {
 |---------|--------|----------------|
 | 🥇 **Top 10 Finalist — Elite Her Hackathon** | 2026 | Top 10 out of 920+ teams · National 36-hr women-in-tech challenge |
 | 🌏 **Finalist — India Innovates 2026** | 2026 | Bharat Mandapam, New Delhi · **BioGraphX**: AI platform converting sugar bagasse → Graphene Oxide |
-| 🏛️ **IIT Hyderabad Hackathon** | 2026 | AI/ML mule account detection · Ensemble learning, Graph Analytics, SHAP explainability & fraud scoring |
 | 💻 **SSOC '26 Contributor** | 2026 | Social Summer of Code · International Open Source Program |
 
 </div>
